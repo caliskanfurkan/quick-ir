@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Furkan CALISKAN, 2017
 import wmi
 c = wmi.WMI("HOSTNAME",user="HOSTNAMEORDOMAINNAME\USER",password="PASSWORD")
 print "\n\nOperating System"
