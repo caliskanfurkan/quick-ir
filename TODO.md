@@ -1,5 +1,6 @@
 - Named-pipe support
 - User list
+- Services list
 - Temp folders contents
 - Prefetch support
 - Shimcache support
