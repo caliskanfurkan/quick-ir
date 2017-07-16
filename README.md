@@ -1,5 +1,5 @@
 # quick-ir
 
-A very simple, Python and WMI based incident response script
+A very simple, Python and WMI based incident response script that supports remote querying
 
-Tested on Python 2.7 with WMI library (http://timgolden.me.uk/python/wmi/)
+Preqs: Python 2.7 and WMI library (http://timgolden.me.uk/python/wmi/)
